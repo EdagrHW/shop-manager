@@ -1,0 +1,79 @@
+{
+  "id": "1740485",
+  "name": "project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1788955",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "7738015",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13882850",
+      "name": "gengduo",
+      "font_class": "gengduo",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13882851",
+      "name": "dianzan-n",
+      "font_class": "dianzan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13882852",
+      "name": "tuikuan",
+      "font_class": "tuikuan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13882853",
+      "name": "laba",
+      "font_class": "laba",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13882854",
+      "name": "sousuo",
+      "font_class": "sousuo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13882855",
+      "name": "banjo",
+      "font_class": "bianji",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13882856",
+      "name": "dingwei",
+      "font_class": "dingwei",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "13882857",
+      "name": "xianzan-s",
+      "font_class": "xianzan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
